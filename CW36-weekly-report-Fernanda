@@ -1,1 +1,27 @@
 
+Week 36. 05-10.09.2022
+
+Monday
+- Markers segmentation from previous scans (FBC_leg-position1, FBC_leg-position2 and FBC_leg-position3).
+Scans in https://keeper.mpdl.mpg.de/d/b32f65cdcc794c71b2fc/
+- Scanned chicken leg in stance phase
+- Updating google doc file with results from previous scans
+Link to doc: https://docs.google.com/document/d/1jobtALTuHeH8rfTgFs9RREbGXH-i243fNvZ8EaaDfQE/edit?usp=sharing
+
+Tuesday
+- Scanned chicken leg in mid-swing phase and perching/grasping
+- Finished marker segmentation from previous scans and exported coordinates to .csv
+- Started updating R script to include data for full leg
+- Updating google doc file with results from previous scans.
+
+Wednesday
+- Scanned leg in two configuration of foot flexion (from MTP joint)
+- Started segmentation of scans from this week ('FBC_leg2_posi1_', ''FBC_leg2_posi2_'). Files in:
+https://keeper.mpdl.mpg.de/d/b32f65cdcc794c71b2fc/
+
+- Updating google doc
+- Updating R script to include data for full leg
+- Reviewing paper for Journal of Zoology
+
+Friday
+- 
